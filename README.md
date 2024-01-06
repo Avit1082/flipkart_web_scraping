@@ -1,8 +1,12 @@
-# flipkart_web_scraping
-In this I have used BeautifulSoup library of python for Web Scraping. In this I have searched for iphone on the flipkart's site and retrive the information of available iphones such as name,price and ratings
-### app.py 
-To run app.py you must have following librarys:
-requests   -> to query 
-bs4        -> it contains BeautifulSoup it is used for web scraping
-pandas     -> used for data handling and csv conversion
+##Overview
+This project utilizes the BeautifulSoup library in Python for web scraping on Flipkart's website. The goal is to search for iPhones on Flipkart and retrieve relevant information such as the product name, price, and ratings.
+
+##Files
+####app.py
+To run app.py, ensure that you have the following libraries installed:
+
+requests: Used for making HTTP requests to query the website.
+bs4 (BeautifulSoup): Contains BeautifulSoup, a powerful tool for web scraping, which simplifies parsing HTML and XML documents.
+pandas: Used for efficient data handling and converting data to CSV format.
+
 
